@@ -2,8 +2,8 @@
 // @name        Décensured
 // @namespace   decensuredjvcom
 // @version     0.1.0
-// @downloadURL https://github.com/SelecaoGolem/decensure/raw/master/decensured.user.js
-// @updateURL   https://github.com/SelecaoGolem/decensure/raw/master/decensured.meta.js
+// @downloadURL https://github.com/SelecaoGolem/decensure/master/decensured.user.js
+// @updateURL   https://github.com/SelecaoGolem/decensure/master/decensured.meta.js
 // @author      Rand0max
 // @description Contrer la censure et le 410 sur les forums JVC
 // @icon        https://risibank.fr/cache/medias/0/2/209/20968/thumb.png
