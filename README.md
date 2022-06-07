@@ -36,7 +36,7 @@
 
 ### Étape 2 : Installez **Décensured**
 
-- Installez **Décensured** en [cliquant ici](https://github.com/Rand0max/decensured/raw/master/decensured.user.js) ou [ici](https://jvscript.fr/script/decensured) puis cliquez sur le bouton "Installer" dans la fenêtre qui s'ouvre
+- Installez **Décensured** en [cliquant ici](https://github.com/SelecaoGolem/decensure/raw/master/decensured.user.js) ou [ici](https://jvscript.fr/script/decensured) puis cliquez sur le bouton "Installer" dans la fenêtre qui s'ouvre
 
 ## Plus d'informations
 
